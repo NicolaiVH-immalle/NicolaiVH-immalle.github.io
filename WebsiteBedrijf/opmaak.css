@@ -52,6 +52,20 @@ ul{
     overflow: hidden;
 }
 
+#OnzeDrivers{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding-top: 15px ;
+    padding-bottom: 15px;
+}
+
+#CL16info{
+    background-color: black;
+    color: white;
+}
+
 #ForzaFerrari{
     text-align: center;
     color: white;
