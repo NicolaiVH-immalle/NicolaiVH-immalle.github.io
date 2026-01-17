@@ -1,5 +1,10 @@
+@font-face {
+    font-family: "FerroRosso" ;
+    src: url(Font/FerroRosso.ttf);
+}
+
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "FerroRosso";
     background-color: #FF2800;
     max-width: 100%;
     margin: 0;
@@ -23,7 +28,6 @@ nav{
 a{
     display: block;
     text-align: center;
-    
 }
 
 a:link{
@@ -107,4 +111,5 @@ footer{
 
 #partnersimg{
     max-width: 100%;
+    justify-content: center;
 }
