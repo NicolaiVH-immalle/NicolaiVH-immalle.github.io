@@ -15,14 +15,26 @@ body{
     text-align: center;
     color: white;
     background-color: black;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     margin-top: 0px ;
+    padding-left: 0;
+    margin-left: 0;
+    letter-spacing: 2px;
+    font-size: 3rem;
+}
+
+#Ferrari-naam{
+    float: left;
+    width: 150px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 1.6rem;
 }
 
 nav{
     background-color: black;
-    
+    margin: 0;
 }
 
 a{
@@ -30,19 +42,26 @@ a{
     text-align: center;
 }
 
+
 a:link{
     color: yellow;
     text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 1.5rem;
 }
 
 a:visited{
     color: yellow;
+    letter-spacing: 2px;
+    font-size: 1.5rem;
 }
 
 a:hover{
     color: yellow;
     font-weight: bold;
     text-decoration: underline;
+    letter-spacing: 2px;
+    font-size: 1.8rem;
 }
 
 li{
@@ -65,15 +84,13 @@ ul{
     padding-bottom: 15px;
 }
 
-#CL16info{
-    background-color: black;
-    color: white;
-}
 
 #ForzaFerrari{
     text-align: center;
     color: white;
     background-color: black;
+    letter-spacing: 2px;
+    font-size: 2rem;
 }
 
 #tifosi{
@@ -91,15 +108,44 @@ ul{
   display: flex;
 }
 
-.drivers{
-    height: 800px;
+.Drivers{
+    height: 1500px;
 }
 
-.driverstxt{
+.Driverstxt{
     text-align: center;
-    margin-left: 50px;
+    color: white;
+    background-color: black;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0;
+    letter-spacing: 2px;
+    font-size: 2rem;
+    
+}
+
+.DriverInfo{
+    background-color: black;
+    color: yellow;
+    margin: 0;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-size: 1.85rem;
+    list-style-type: none
+}
+
+li span {
+  position: relative;
+  left: -10px;
+}
+
+#Story{
+    text-align: center;
+    background-color: black;
     color: white;
 }
+
 
 footer{
     background-color: white;
@@ -107,6 +153,11 @@ footer{
 
 #partners{
     text-align: center;
+    margin: 0;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    letter-spacing: 2px;
+    font-size: 2rem;
 }
 
 #partnersimg{
