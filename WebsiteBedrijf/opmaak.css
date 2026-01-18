@@ -19,6 +19,7 @@ body{
     padding-bottom: 50px;
     margin-top: 0px ;
     padding-left: 0;
+    padding-right: 1rem;
     margin-left: 0;
     letter-spacing: 2px;
     font-size: 3rem;
@@ -47,13 +48,16 @@ a:link{
     color: yellow;
     text-decoration: none;
     letter-spacing: 2px;
-    font-size: 1.5rem;
+    font-size: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin: 0;
 }
 
 a:visited{
     color: yellow;
     letter-spacing: 2px;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 a:hover{
@@ -61,7 +65,7 @@ a:hover{
     font-weight: bold;
     text-decoration: underline;
     letter-spacing: 2px;
-    font-size: 1.8rem;
+    font-size: 2.1rem;
 }
 
 li{
@@ -130,9 +134,10 @@ ul{
     color: yellow;
     margin: 0;
     padding: 20px;
+    padding-bottom: 2rem;
     letter-spacing: 2px;
     font-size: 1.85rem;
-    list-style-type: none
+    list-style-type: none;
 }
 
 li span {
@@ -143,7 +148,43 @@ li span {
 #Story{
     text-align: center;
     background-color: black;
+    color: yellow;
+    letter-spacing: 2.5px;
+    font-size: 2.5rem;
+    margin: 0;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+}
+
+.History{
     color: white;
+    background-color: black;
+    text-align: center;
+    letter-spacing: 0.1rem;
+    font-size: 1.8rem;
+    margin: 0;
+    padding-bottom: 1rem;
+}
+
+.HistoryT{
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 2.5rem;
+    margin: 0;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+}
+
+#HistoryB{
+    color: white;
+    background-color: black;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 1.8rem;
+    margin: 0;
+    padding-bottom: 3rem;
 }
 
 
@@ -155,12 +196,13 @@ footer{
     text-align: center;
     margin: 0;
     padding-bottom: 2rem;
-    padding-top: 2rem;
+    padding-top: 3rem;
     letter-spacing: 2px;
     font-size: 2rem;
 }
 
 #partnersimg{
-    max-width: 100%;
-    justify-content: center;
+    width: 155.5rem;
+    text-align: center;
+    
 }
