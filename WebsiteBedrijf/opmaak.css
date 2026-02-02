@@ -18,6 +18,7 @@ body{
     padding-top: 50px;
     padding-bottom: 50px;
     margin-top: 0px ;
+    margin-bottom: 0px;
     padding-left: 0;
     padding-right: 1rem;
     margin-left: 0;
@@ -29,8 +30,7 @@ body{
     float: left;
     width: 150px;
     height: 100px;
-    margin-left: 50px;
-    margin-top: 1.6rem;
+    text-align: center;
 }
 
 nav{
@@ -77,6 +77,7 @@ li{
 
 ul{
     overflow: hidden;
+    margin: 0;
 }
 
 #OnzeDrivers{
@@ -88,6 +89,12 @@ ul{
     padding-bottom: 15px;
 }
 
+#FerrariVideo{
+    text-align: 0 auto 0 auto;
+    width: 80rem;
+    height: 20rem;
+}
+
 
 #ForzaFerrari{
     text-align: center;
@@ -95,6 +102,9 @@ ul{
     background-color: black;
     letter-spacing: 2px;
     font-size: 2rem;
+    margin: 0;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 #tifosi{
@@ -201,8 +211,3 @@ footer{
     font-size: 2rem;
 }
 
-#partnersimg{
-    width: 155.5rem;
-    text-align: center;
-    
-}
