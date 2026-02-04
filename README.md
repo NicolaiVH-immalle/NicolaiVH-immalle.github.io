@@ -4,3 +4,5 @@
 
 ## Ferrari logo toegevoegd bovenaan met link naar index.html. Link toegevoegd in footer naar partners.html 2/03/26
 
+## Rubik font toegevoegd. Info toegevoegd op partners pagina
+
