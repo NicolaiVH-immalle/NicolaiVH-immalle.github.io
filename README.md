@@ -6,5 +6,5 @@
 
 ## Rubik font toegevoegd. Info toegevoegd op partners pagina 4/02/2026
 
-## Partners pagina logos toegevoegd in table (nog niet gecentreerd) 
+## Partners pagina logos toegevoegd in table (nog niet gecentreerd) 8/02/2026
 
