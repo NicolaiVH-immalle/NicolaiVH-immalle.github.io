@@ -8,3 +8,7 @@
 
 ## Partners pagina logos toegevoegd in table (nog niet gecentreerd) 8/02/2026
 
+## vlaggen toegevoegd (nog niet gecentreerd) logos gecentreerd op partnerspagina 9/02/2026
+
+## vlaggen op zijn plaats gezet. media query voor iPhone 14 pro max bewerkt 10/02/0226
+
