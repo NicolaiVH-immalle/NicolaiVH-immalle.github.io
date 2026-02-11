@@ -10,5 +10,7 @@
 
 ## vlaggen toegevoegd (nog niet gecentreerd) logos gecentreerd op partnerspagina 9/02/2026
 
-## vlaggen op zijn plaats gezet. media query voor iPhone 14 pro max bewerkt 10/02/0226
+## vlaggen op zijn plaats gezet. media query voor iPhone 14 pro max bewerkt 10/02/2026
+
+## Op de coureurs pagina csstoegevoegd voor iPhone 14 (fotos onder elkaar) nog niet gecentreerd. Auto's pagina tekst gecentreered.
 
