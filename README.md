@@ -15,3 +15,5 @@
 ## Op de coureurs pagina CSS toegevoegd voor iPhone 14 (fotos onder elkaar) nog niet gecentreerd. Auto's pagina tekst gecentreered. 11/02/2026
 
 ## opmaak CSS iPad Mini (768px) toegevoegd. nav nog niet gecentreerd. 11/02/2026
+
+## media query toegevoegd voor max-wdth: 1024px. Index pagina werkt op alle media queries, nog niet op drivers pagina 12/02/2026
