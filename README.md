@@ -17,3 +17,5 @@
 ## opmaak CSS iPad Mini (768px) toegevoegd. nav nog niet gecentreerd. 11/02/2026
 
 ## media query toegevoegd voor max-wdth: 1024px. Index pagina werkt op alle media queries, nog niet op drivers pagina 12/02/2026
+
+## alle media queries werken nu ook op drivers pagina. Partners-pagina afgewerkt voor media query max-width: 1024px 15/02/2026
